@@ -1,13 +1,13 @@
-# go_bookstore
+# The CRUD Golang project
 
-<!-- Add required packages -->
+# Add required packages
 go mod tidy
 
-<!-- Go to the right path -->
+# Go to the right path
 cd ./cmd/main
 
-<!-- Build the project -->
+# Build the project
 go build
 
-<!-- Start using it -->
+# Start using it
 ./main
