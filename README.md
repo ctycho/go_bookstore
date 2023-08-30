@@ -1,7 +1,7 @@
 # The CRUD Golang project
 
 With this project you create a server which works with database.
-There are several endpoint available
+There are several endpoints available
 
 POST: "/book/" - Create book \
 GET: "/book/" - Get books \
@@ -10,7 +10,7 @@ PUT: "/book/{id}" - Update book \
 DELETE: "/book/{id}" - Delete book \
 
 You will need to create ".env" file in the root directory where you need to provide
-ypur MySQL user name and the password
+your MySQL user name, password etc.
 
 USER="root" \
 PASSWORD="qwerty" \
